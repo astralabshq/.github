@@ -1,14 +1,11 @@
 # Astra Labs
 
-Astra Labs is a software company based in Vancouver, British Columbia.
+Most software is built to be tolerated. We're building the kind people actually want to open.
 
-## Products
+We're a small team out of Vancouver. We ship fast, we obsess over the details everyone else skips, and we're just getting started.
 
-- **Astra Tickets**
-- **Astra Clips**
+**Something new is on the way.**
 
-More details coming soon.
+## Break our stuff. Get paid.
 
-## Security
-
-If you think you've found a security vulnerability in an Astra Labs repository, please **don't open a public issue**. Report it privately instead, following our [security policy](https://github.com/astralabshq/.github/blob/main/SECURITY.md).
+Found a security hole in something we built? Tell us privately, not in a public issue. Valid reports earn a cash reward. Everything you need is in our [security policy](https://github.com/astralabshq/.github/blob/main/SECURITY.md).
